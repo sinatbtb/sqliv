@@ -1,7 +1,7 @@
 import argparse
 import os
 import stat
-import pip
+
 from sys import platform
 from shutil import copy2, rmtree
 from distutils.dir_util import copy_tree
